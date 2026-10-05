@@ -301,6 +301,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Qodo PR Agent](https://github.com/qodo-ai/pr-agent)** – Open-source AI agent for PR reviews with actionable insights.
 - **[Amazon CodeGuru Reviewer](https://aws.amazon.com/codeguru/)** – ML-powered code reviews with AWS integration.
 - **[Refact.ai](https://refact.ai/)** – AI-driven refactoring and code optimization.
+- **[Revix](https://www.revix.ai/)** – AI code review for GitHub, GitLab, and Bitbucket Cloud that extracts coding standards from your repo and enforces them on pull requests.
 - **[Embold](https://embold.io/)** – AI code analysis for quality, maintainability, and tech debt.
 - **[Veracode](https://www.veracode.com/)** – AI-driven application security with static and dynamic analysis.
 - **[PullRequest](https://www.pullrequest.com/)** – Human-AI hybrid code review combining automated analysis with expert reviewers.
